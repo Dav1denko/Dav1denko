@@ -1,13 +1,12 @@
-### Hi there 👋
 <div id="header" align="center">
 <h1>Hi there, I'm 
-Dmitriy </h1>>
-<h3>FullStack Developer</h3>>
+Dmitriy </h1>
+<h3>FullStack Developer</h3>
 </div>
 
 <a href="david3nko_dmitriy@mail.ru">
 <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logoColor=white" alt="mail"/>
-</a>>
+</a>
 <!--
 **Dav1denko/Dav1denko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
