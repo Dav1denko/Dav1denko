@@ -20,7 +20,7 @@ Dmitriy </h1>
 - 📂 Know about my experiences [pet project](https://github.com/Dav1denko?tab=repositories)
 - 📧 Reach me by [email](mailto:david3nko_dmitriy@mail.ru)
 - 🌍 I speak English
-- 🏆 My Codewars is  <img src="https://www.codewars.com/users/alykard_boy/badges/micro" alt ="codewars"/>&nbsp;
+- 🏆 [My Codewars](https://www.codewars.com/users/alykard_boy) is  <img src="https://www.codewars.com/users/alykard_boy/badges/micro" alt ="codewars"/>&nbsp;
 
 ### Languages and tools
 
