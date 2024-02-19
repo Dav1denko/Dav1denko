@@ -16,7 +16,6 @@ Dmitriy </h1>
 </div>
 
 ### About me
-- 📔 I'm currently learning **Golang microservices**
 - 📂 Know about my experiences [pet project](https://github.com/Dav1denko?tab=repositories)
 - 📧 Reach me by [email](mailto:david3nko_dmitriy@mail.ru)
 - 🏆 [My Codewars](https://www.codewars.com/users/alykard_boy) is  <img src="https://www.codewars.com/users/alykard_boy/badges/micro" alt ="codewars"/>&nbsp;
