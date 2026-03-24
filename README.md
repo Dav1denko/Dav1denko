@@ -4,9 +4,6 @@ Dmitriy </h1>
 <h3>FullStack Developer</h3>
 
 
-<a href="https://t.me/Dmitry_Dav1denko">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
-</a>
 <a href="mailto:david3nko_dmitriy@mail.ru">
 <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="telegram"/>
 </a>
